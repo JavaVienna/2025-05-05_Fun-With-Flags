@@ -5,6 +5,9 @@ This is a little Spring Boot Demo applitcation for OpenFeature.
 Follow each Step and see how OpenFeature can be used within a Spring Boot Application
 
 Within [reqeuests.http](requests.http) you will find requests for each section to play with.
+
+> Note: There will be a branch for each step - within the near future. Currently there is only `step/4` which is the end state
+
 ## Step 1 Basic OpenFeature Setup
 
 Checkout the Repository and start the application.
